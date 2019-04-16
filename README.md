@@ -21,8 +21,8 @@ Beyond the full-size original audio file, we provide an edited version with Them
 
 ## Score:
 
-We have a score as MuseScore and MusicXML file, as well as a pdf rendering. The score was transcribed in MuseScore by Eric Brechemier from the facsimile of the original score and the first edition and released under a Creative Commons 1.0 Universal license.
+We have a MIDI and pdf score published on IMSLP by Jürgen Knuth under a Creative Commons Attribution Non-commercial Share Alike 3.0 license:
 
-https://github.com/eric-brechemier/mozart-kv265
+https://imslp.org/wiki/12_Variations_on_%22Ah%2C_vous_dirai-je_maman%22%2C_K.265%2F300e_(Mozart%2C_Wolfgang_Amadeus)
 
-Beyond this score, we provide a pdf scan of the facsimile from IMSLP and Eric Brechemier's uploaded version of the first edition by Christoph Torricella.
+Furthermore, we have a scan from the facsimile, also from IMSLP.
