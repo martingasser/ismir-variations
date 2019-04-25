@@ -17,7 +17,7 @@ We have two interpretations of the piece by pianists Simone Renzi and Stefano Li
 
 http://imslp.org/wiki/12_Variations_on_%22Ah%2C_vous_dirai-je_maman%22%2C_K.265%2F300e_(Mozart%2C_Wolfgang_Amadeus)
 
-Beyond the full-size original audio file, we provide an edited version with Theme and all Variations in separate tracks.
+__Beyond the full-size original audio file, we provide an edited version with Theme and all Variations in separate tracks.__
 
 ## Score:
 
@@ -27,7 +27,7 @@ https://imslp.org/wiki/12_Variations_on_%22Ah%2C_vous_dirai-je_maman%22%2C_K.265
 
 Furthermore, we have a scan from the facsimile, also from IMSLP.
 
-For your convenience, we OMR-ed and corrected the pdf. The derived files (Sibelius, pdf, MusicXML, MIDI, Rendered Audio) are denoted with the suffix "_Sibelius".
+__For your convenience, we OMR-ed and corrected the pdf. The derived files (Sibelius, pdf, MusicXML, MIDI, Rendered Audio) are denoted with the suffix "_Sibelius".__
 
 Another good source is the Neue Mozart Ausgabe (New Mozart Edition), published as pdf for study purposes by Mozarteum Foundation, Salzburg:
 
