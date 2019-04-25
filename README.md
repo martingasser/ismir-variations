@@ -39,5 +39,6 @@ Just search for KV = 265.
 
 We are looking for many interesting and entertaining contributions!
 
-Martin Gasser & Christof Weiss
-ISMIR 2019 music chairs
+_Martin Gasser & Christof Weiss_
+
+_ISMIR 2019 music chairs_
