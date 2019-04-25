@@ -42,3 +42,5 @@ We are looking for many interesting and entertaining contributions!
 _Martin Gasser & Christof Weiss_
 
 _ISMIR 2019 music chairs_
+
+http://ismir2019.ewi.tudelft.nl/
