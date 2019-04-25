@@ -27,7 +27,7 @@ https://imslp.org/wiki/12_Variations_on_%22Ah%2C_vous_dirai-je_maman%22%2C_K.265
 
 Furthermore, we have a scan from the facsimile, also from IMSLP.
 
-__For your convenience, we OMR-ed and corrected the pdf. The derived files (Sibelius, pdf, MusicXML, MIDI, Rendered Audio) are denoted with the suffix "_Sibelius".__
+__For your convenience, we OMR-ed and corrected the pdf.__ The derived files (Sibelius, pdf, MusicXML, MIDI, Rendered Audio) are denoted with the suffix "_Sibelius".
 
 Another good source is the Neue Mozart Ausgabe (New Mozart Edition), published as pdf for study purposes by Mozarteum Foundation, Salzburg:
 
