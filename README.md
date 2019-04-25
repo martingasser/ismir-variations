@@ -9,6 +9,7 @@ This github project provides infos and files for ISMIR 2019's community contribu
 This idea goes back to the first ISMIR logo (ISMIR_oldLogo.png), which was proposed during the first ISMIR 2000 in Plymouth, MA. The full history is documented under the 10 years anniversary paper by Downie et al. (Section 2.1):
 
 2009_DownieBC_TenYearsISMIR.pdf
+
 http://ismir2009.ismir.net/proceedings/keynote1.pdf
 
 ## Audio:
