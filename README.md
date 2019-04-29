@@ -1,4 +1,4 @@
-# General 
+# General
 
 This github project provides infos and files for ISMIR 2019's community contributions: "Variations on ISMIR"
 
@@ -8,9 +8,8 @@ This github project provides infos and files for ISMIR 2019's community contribu
 
 This idea goes back to the first ISMIR logo (ISMIR_oldLogo.png), which was proposed during the first ISMIR 2000 in Plymouth, MA. The full history is documented under the 10 years anniversary paper by Downie et al. (Section 2.1):
 
-2009_DownieBC_TenYearsISMIR.pdf
-
-http://ismir2009.ismir.net/proceedings/keynote1.pdf
+[TEN YEARS OF ISMIR:
+REFLECTIONS ON CHALLENGES AND OPPORTUNITIES ](http://ismir2009.ismir.net/proceedings/keynote1.pdf)
 
 ## Audio:
 
@@ -18,7 +17,7 @@ We have two interpretations of the piece by pianists Simone Renzi and Stefano Li
 
 http://imslp.org/wiki/12_Variations_on_%22Ah%2C_vous_dirai-je_maman%22%2C_K.265%2F300e_(Mozart%2C_Wolfgang_Amadeus)
 
-__Beyond the full-size original audio file, we provide an edited version with Theme and all Variations in separate tracks.__
+**Beyond the full-size original audio file, we provide an edited version with Theme and all Variations in separate tracks.**
 
 ## Score:
 
@@ -28,7 +27,7 @@ https://imslp.org/wiki/12_Variations_on_%22Ah%2C_vous_dirai-je_maman%22%2C_K.265
 
 Furthermore, we have a scan from the facsimile, also from IMSLP.
 
-__For your convenience, we OMR-ed and corrected the pdf.__ The derived files (Sibelius, pdf, MusicXML, MIDI, Rendered Audio) are denoted with the suffix "_Sibelius".
+**For your convenience, we OMR-ed and corrected the pdf.** The derived files (Sibelius, pdf, MusicXML, MIDI, Rendered Audio) are denoted with the suffix "\_Sibelius".
 
 Another good source is the Neue Mozart Ausgabe (New Mozart Edition), published as pdf for study purposes by Mozarteum Foundation, Salzburg:
 
@@ -36,8 +35,7 @@ https://dme.mozarteum.at/nmaonline/
 
 Just search for KV = 265.
 
-
-__We are looking for many interesting and entertaining contributions!__
+**We are looking for many interesting and entertaining contributions!**
 
 _Martin Gasser & Christof Weiss_
 
