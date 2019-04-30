@@ -1,4 +1,4 @@
-# 20 years of ISMIR -- community video
+# 20 Years of ISMIR - Community Video
 
 This github project provides infos and files for ISMIR 2019's community contributions: "Variations on ISMIR"
 
